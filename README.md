@@ -49,7 +49,7 @@ This dashboard provides a clear snapshot of:
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](./SalesDashboard_Screenshot.png)
+![Sales Dashboard](https://github.com/AkashGavade1/Sales-Analysis-Dashboard-Excel-/blob/main/Snapshot%20of%20Sales%20Dashboard.png)
 
 ---
 
